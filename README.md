@@ -1,2 +1,2 @@
 # CellClassific
-Cell Classification Codefest 19
+A Convoluted Neural Network model for cell classification.
