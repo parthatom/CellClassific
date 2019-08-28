@@ -1,2 +1,2 @@
-# CellClassific
-A Convoluted Neural Network model for cell classification.
+# CellClassification
+A Convoluted Neural Network model, in Pytorch, for cell classification.
